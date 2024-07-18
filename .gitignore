@@ -170,3 +170,4 @@ candidates/
 catboost_info/
 goodsread/books.parquet
 goodsread/interactions.parquet
+service/datasets/
